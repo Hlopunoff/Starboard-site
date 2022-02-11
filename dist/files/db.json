@@ -1,0 +1,66 @@
+{
+    "cards": [{
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Trend and Insight",
+            "date": "June 11",
+            "title": "Cloud Platforms: One Solution for a Post Covid-19 World",
+            "text": "The world has changed, what about you? Get on the cloud to accelerate business transformation in these troubling times. No one ever saw it coming. Now, after 6 months and…"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Digital Future",
+            "date": "June 8",
+            "title": "5 Technology Trends That Can Transform Your Accounting Firm",
+            "text": "Focus on being productive, not busy. Stimulate rapid growth and greater value for your practice through the smart utilisation of technology. Technology trends"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Trend and Insight",
+            "date": "June 4",
+            "title": "5 Platforms that Will Help You Thrive in a Disrupted World",
+            "text": "Tech platforms and tools to help you run your accounting and corporate secretarial business efficiently Time and tech wait for no man. Technology has been moving so quickly that the…"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Trend and Insight",
+            "date": "June 11",
+            "title": "Cloud Platforms: One Solution for a Post Covid-19 World",
+            "text": "The world has changed, what about you? Get on the cloud to accelerate business transformation in these troubling times. No one ever saw it coming. Now, after 6 months and…"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Digital Future",
+            "date": "June 8",
+            "title": "5 Technology Trends That Can Transform Your Accounting Firm",
+            "text": "Focus on being productive, not busy. Stimulate rapid growth and greater value for your practice through the smart utilisation of technology. Technology trends"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Trend and Insight",
+            "date": "June 4",
+            "title": "5 Platforms that Will Help You Thrive in a Disrupted World",
+            "text": "Tech platforms and tools to help you run your accounting and corporate secretarial business efficiently Time and tech wait for no man. Technology has been moving so quickly that the…"
+        },
+        {
+            "parentSelector": ".articles__content",
+            "img": "dist/img/pics/article1.png",
+            "alt": "article",
+            "topic": "Trend and Insight",
+            "date": "June 11",
+            "title": "Cloud Platforms: One Solution for a Post Covid-19 World",
+            "text": "The world has changed, what about you? Get on the cloud to accelerate business transformation in these troubling times. No one ever saw it coming. Now, after 6 months and…"
+        }
+    ]
+}
