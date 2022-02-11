@@ -1,7 +1,7 @@
 {
     "cards": [{
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article1.png",
             "alt": "article",
             "topic": "Trend and Insight",
             "date": "June 11",
@@ -10,7 +10,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article2.png",
             "alt": "article",
             "topic": "Digital Future",
             "date": "June 8",
@@ -19,7 +19,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article3.png",
             "alt": "article",
             "topic": "Trend and Insight",
             "date": "June 4",
@@ -28,7 +28,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article3.png",
             "alt": "article",
             "topic": "Trend and Insight",
             "date": "June 11",
@@ -37,7 +37,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article1.png",
             "alt": "article",
             "topic": "Digital Future",
             "date": "June 8",
@@ -46,7 +46,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article2.png",
             "alt": "article",
             "topic": "Trend and Insight",
             "date": "June 4",
@@ -55,7 +55,7 @@
         },
         {
             "parentSelector": ".articles__content",
-            "img": "dist/img/pics/article1.png",
+            "img": "img/pics/article3.png",
             "alt": "article",
             "topic": "Trend and Insight",
             "date": "June 11",
